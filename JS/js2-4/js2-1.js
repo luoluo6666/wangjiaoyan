@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 2017/11/22.
- */
+
 
 $(document).ready(function() {
     $(document).foundation();
